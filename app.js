@@ -1,5 +1,7 @@
-const sayHello = () => {
-  console.log("Hello there");
+const calc = (n1, n2) => {
+  const sum = n1 + n2;
+
+  return sum;
 };
 
-sayHello();
+console.log(calc(1, 2));
