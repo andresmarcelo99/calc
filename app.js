@@ -6,10 +6,12 @@ const calc = (n1, n2) => {
   if (n2 != 0) {
     div = n1 / n2;
   }
+  const exp = n1 ** n2;
   console.log("Sum:", sum);
   console.log("Sub:", sub);
   console.log("Mult:", mult);
   console.log("Div:", div);
+  console.log("Exp:", exp);
 };
 
 calc(5, 10);
