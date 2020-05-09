@@ -14,7 +14,8 @@ const calc = (n1, n2) => {
   console.log("Exp:", exp);
 };
 
-console.log("Hello there");
+console.log("Bienvenidos a la calc hecha en js");
+
 calc(5, 10);
 
 //mm
