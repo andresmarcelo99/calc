@@ -13,7 +13,7 @@ const calc = (n1, n2) => {
   console.log("Div:", div);
   console.log("Exp:", exp);
 };
-
+console.log("Hello there");
 calc(5, 10);
 
 //mm
